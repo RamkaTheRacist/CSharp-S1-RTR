@@ -1,4 +1,4 @@
-﻿//Выяснить является ли число чётным
+﻿//Выяснить является ли число чётным. С оговоркой для положительных чисел
 Console.WriteLine("Which number?");
 int number = int.Parse(Console.ReadLine());
 if(number % 2 == 0)
