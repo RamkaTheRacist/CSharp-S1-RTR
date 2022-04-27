@@ -5,5 +5,5 @@ double nmin = -n;
 while(nmin <= nmax)
 {
     Console.Write(" " + nmin); // " " - отступ
-    nmin = nmin + 1;
+    nmin = nmin + 1; // or nmin ++ 
 }
