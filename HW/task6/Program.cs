@@ -1,5 +1,5 @@
 ﻿//Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
-Console.Writelint("Number?");
+Console.WriteLine("Number?");
 int number = int.Parse(Console.ReadLine());
 int digit1 = number / 10;
 int digit2 = number % 10;
